@@ -1,5 +1,5 @@
 {
-  "client_id": "https://whohasmyname.github.io/metadata/client-metadata.json",
+  "client_id": "https://whohasmyname.github.io/metadata/client-metadata.json?v=2",
   "client_name": "TipSky / SkyPi Web Client",
   "client_description": "A Bluesky-adjacent PWA for TipSky and SkyPi \u2014 unified client.",
   "redirect_uris": [
