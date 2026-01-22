@@ -1,0 +1,19 @@
+{
+  "client_id": "https://tipsky.app/client-metadata.json",
+  "client_name": "TipSky / SkyPi Web Client",
+  "client_description": "A Bluesky-adjacent PWA for TipSky and SkyPi — unified client.",
+  "redirect_uris": [
+    "https://tipsky.app/api/auth/callback",
+    "https://skypi.app/api/auth/callback"
+  ],
+  "logo_uri": "https://tipsky.app/logo-192.png",
+  "client_uri": "https://tipsky.app/",
+  "contacts": ["ops@tipsky.app"],
+  "scope": "atproto at:post at:feed openid offline_access",
+  "policy_uri": "https://tipsky.app/privacy",
+  "terms_of_service_uri": "https://tipsky.app/terms",
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "dpop_bound_access_tokens": true,
+  "token_endpoint_auth_method": "none"
+}
