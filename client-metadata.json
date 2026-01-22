@@ -1,7 +1,7 @@
 {
   "client_id": "https://whohasmyname.github.io/metadata/client-metadata.json?v=2",
   "client_name": "TipSky / SkyPi Web Client",
-  "client_description": "A Bluesky-adjacent PWA for TipSky and SkyPi \u2014 unified client.",
+  "client_description": "A Bluesky-adjacent PWA for TipSky and SkyPi — unified client.",
   "redirect_uris": [
     "https://tipsky.app/api/auth/callback",
     "https://skypi.app/api/auth/callback"
@@ -11,7 +11,7 @@
   "contacts": [
     "ops@tipsky.app"
   ],
-  "scope": "atproto at:post at:feed openid offline_access",
+  "scope": "atproto at:post at:feed offline_access",
   "policy_uri": "https://tipsky.app/privacy",
   "terms_of_service_uri": "https://tipsky.app/terms",
   "grant_types": [
